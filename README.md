@@ -1,3 +1,6 @@
+![customer_type](https://user-images.githubusercontent.com/75437852/113483933-cc059580-9473-11eb-8ed8-174641613e75.PNG)
+![avg_trip](https://user-images.githubusercontent.com/75437852/113483988-27d01e80-9474-11eb-9e64-148a20dad6b5.PNG)
+![trips_users](https://user-images.githubusercontent.com/75437852/113483999-34547700-9474-11eb-8534-bfc8a123bced.PNG)
 # Bike-sharing
 
 ## Overview of the statistical analysis: <br>
