@@ -13,7 +13,7 @@ The trip duration data from Citi Bike has been converted to date/time format to 
 
   1.  **We look at the type of customers currently using Citi Bike:**<br>
       Data shows there are currently 2,344,224 Citi Bike users.  81% of the total are annual paying subscribers and 19% are ad hoc customers.  This visualization shows there is a good base of consistent revenue for the company. <br>
-      ![customer_type](https://user-images.githubusercontent.com/75437852/113071641-2dd3b000-9193-11eb-93eb-5ac593c32975.PNG) 
+      ![customer_type](https://user-images.githubusercontent.com/75437852/113483933-cc059580-9473-11eb-8ed8-174641613e75.PNG) 
       <br>
       
   2.  **Checkout times based on bike users**:<br>
@@ -29,7 +29,7 @@ The trip duration data from Citi Bike has been converted to date/time format to 
  
   4.  **Average duration of biking trips:**<br>
   An area chart showing the average duration based on age.  The younger population between the ages of 20 - 39 are more likely to have longer trip durations.  There is a peak in longest trip duration for any users born in 1970 (39 years). <br>
- ![avg_trip](https://user-images.githubusercontent.com/75437852/113182924-7043ce00-9221-11eb-8aeb-bfec2861b872.PNG)
+ ![avg_trip](https://user-images.githubusercontent.com/75437852/113483988-27d01e80-9474-11eb-9e64-148a20dad6b5.PNG)
  <br>
     
   5.  **Trips in the week - per hour:** <br>
@@ -45,7 +45,7 @@ The trip duration data from Citi Bike has been converted to date/time format to 
   
   7.  **User trips in the week - by gender:** <br>
   This heatmap shows bike usage by customer types and filtered by gender.  For subscribers, male users are primary than females and unknown.  Bike usage are heavier during the weekdays, peaking on thursdays. For customers, it is consistent for all gender types, however there are more usuage on weekends vs. weekdays.  This could mean tourists but also some local populations that do not subscribe to an annual membership but has usuage based on their need.
- ![trips_users](https://user-images.githubusercontent.com/75437852/113183106-a8e3a780-9221-11eb-8c35-95ebc79f7155.PNG)
+ ![trips_users](https://user-images.githubusercontent.com/75437852/113483999-34547700-9474-11eb-8534-bfc8a123bced.PNG)
 <br>
  
 ## Summary:
